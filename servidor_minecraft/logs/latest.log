@@ -167,3 +167,27 @@
 [23Mar2025 22:31:05.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 was slain by EHC
 [23Mar2025 22:31:38.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 was killed trying to hurt EHC
 [23Mar2025 22:45:43.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set 70 experience levels on EHC]
+[23Mar2025 22:55:07.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set EHC's game mode to Creative Mode
+[23Mar2025 22:56:29.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Beam Me Up, Scotty]
+[23Mar2025 22:58:35.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set EHC's game mode to Survival Mode
+[23Mar2025 22:58:43.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Teleported EHC to ThiagoXD_0]
+[23Mar2025 22:59:09.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 has made the advancement [Beam Me Up, Scotty]
+[23Mar2025 22:59:30.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
+[23Mar2025 22:59:52.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 was kicked for floating too long!
+[23Mar2025 22:59:52.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 lost connection: Disconnected
+[23Mar2025 22:59:52.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 left the game
+[23Mar2025 22:59:52.421] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Mar2025 23:00:39.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.126.235.175:33849] logged in with entity id 44791 at (-316.403121080322, 157.2352796881538, 900.537274566291)
+[23Mar2025 23:00:39.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
+[23Mar2025 23:00:39.787] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
+[23Mar2025 23:00:49.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: surival
+[23Mar2025 23:00:49.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...de surival<--[HERE]
+[23Mar2025 23:00:55.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set EHC's game mode to Survival Mode
+[23Mar2025 23:01:01.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 was kicked for floating too long!
+[23Mar2025 23:01:01.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 lost connection: Flying is not enabled on this server
+[23Mar2025 23:01:01.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 left the game
+[23Mar2025 23:01:33.485] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.126.235.175:35573] logged in with entity id 44973 at (-316.403121080322, 155.64267509051876, 900.537274566291)
+[23Mar2025 23:01:33.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
+[23Mar2025 23:01:33.533] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
+[23Mar2025 23:01:40.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Teleported ThiagoXD_0 to EHC]
+[23Mar2025 23:01:42.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 fell from a high place

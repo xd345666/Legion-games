@@ -7802,9 +7802,21 @@
     },
     "done": true
   },
+  "mekanism:teleporter": {
+    "criteria": {
+      "teleporter": "2025-03-23 22:55:50 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-23 22:43:06 +0000"
+    },
+    "done": true
+  },
+  "mekanism:portable_teleporter": {
+    "criteria": {
+      "portable_teleporter": "2025-03-23 22:56:29 +0000"
     },
     "done": true
   },
