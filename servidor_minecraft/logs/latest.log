@@ -154,3 +154,15 @@
 [23Mar2025 21:42:37.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 has completed the challenge [Serious Dedication]
 [23Mar2025 22:19:19.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 fell from a high place
 [23Mar2025 22:20:26.130] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/33331, l='ServerLevel[world]', x=-707.70, y=77.28, z=922.87] died, message: 'Nitwit burned to death'
+[23Mar2025 22:23:21.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 was blown up by Creeper
+[23Mar2025 22:23:53.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
+[23Mar2025 22:23:53.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[23Mar2025 22:25:02.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:48631] logged in with entity id 36216 at (-289.7957783471806, 78.0, 1059.7265750737483)
+[23Mar2025 22:25:02.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[23Mar2025 22:25:02.493] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[23Mar2025 22:25:13.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported EHC to ThiagoXD_0
+[23Mar2025 22:25:27.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 was pummeled by EHC
+[23Mar2025 22:28:14.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 was doomed to fall by EHC
+[23Mar2025 22:30:45.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Teleported ThiagoXD_0 to EHC]
+[23Mar2025 22:31:05.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 was slain by EHC
+[23Mar2025 22:31:38.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 was killed trying to hurt EHC
