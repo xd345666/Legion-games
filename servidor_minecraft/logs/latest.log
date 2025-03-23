@@ -191,3 +191,6 @@
 [23Mar2025 23:01:33.533] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
 [23Mar2025 23:01:40.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Teleported ThiagoXD_0 to EHC]
 [23Mar2025 23:01:42.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 fell from a high place
+[23Mar2025 23:11:45.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set EHC's game mode to Creative Mode
+[23Mar2025 23:11:51.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
+[23Mar2025 23:11:51.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
