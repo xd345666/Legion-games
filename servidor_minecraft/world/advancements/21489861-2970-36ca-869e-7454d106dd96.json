@@ -7910,5 +7910,11 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_deepslate_slab": "2025-03-23 23:37:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -215,3 +215,14 @@
 [23Mar2025 23:21:35.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:58239] logged in with entity id 47444 at (-309.53606268486993, 301.0, 888.5239387277867)
 [23Mar2025 23:21:35.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
 [23Mar2025 23:21:35.088] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[23Mar2025 23:39:48.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC was kicked for floating too long!
+[23Mar2025 23:39:48.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Flying is not enabled on this server
+[23Mar2025 23:39:48.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[23Mar2025 23:39:59.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:46345] logged in with entity id 49599 at (-295.4527569237977, 144.95879975556812, 899.0426321729078)
+[23Mar2025 23:39:59.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[23Mar2025 23:39:59.790] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[23Mar2025 23:42:15.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
+[23Mar2025 23:42:15.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[23Mar2025 23:42:25.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:54227] logged in with entity id 50106 at (-274.4118994683252, 78.0, 1016.4318882104543)
+[23Mar2025 23:42:25.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[23Mar2025 23:42:25.877] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
