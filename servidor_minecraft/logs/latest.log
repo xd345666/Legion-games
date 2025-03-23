@@ -226,3 +226,17 @@
 [23Mar2025 23:42:25.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:54227] logged in with entity id 50106 at (-274.4118994683252, 78.0, 1016.4318882104543)
 [23Mar2025 23:42:25.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
 [23Mar2025 23:42:25.877] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[23Mar2025 23:42:55.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
+[23Mar2025 23:42:55.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[23Mar2025 23:43:28.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:40129] logged in with entity id 50346 at (-274.4118994683252, 78.0, 1016.4318882104543)
+[23Mar2025 23:43:28.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[23Mar2025 23:43:28.624] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[23Mar2025 23:45:44.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC moved too quickly! 0.15058943344354248,-11.135420013068568,-0.5953188878100946
+[23Mar2025 23:45:51.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC was doomed to fall by Creeper
+[23Mar2025 23:46:04.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 was blown up by Creeper
+[23Mar2025 23:46:13.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
+[23Mar2025 23:46:13.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[23Mar2025 23:46:54.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:50361] logged in with entity id 51416 at (-306.5, 79.0, 893.5)
+[23Mar2025 23:46:54.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[23Mar2025 23:46:54.273] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[23Mar2025 23:47:50.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Teleported ThiagoXD_0 to EHC]
