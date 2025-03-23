@@ -152,3 +152,5 @@
 [23Mar2025 21:06:10.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
 [23Mar2025 21:06:10.919] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
 [23Mar2025 21:42:37.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 has completed the challenge [Serious Dedication]
+[23Mar2025 22:19:19.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 fell from a high place
+[23Mar2025 22:20:26.130] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/33331, l='ServerLevel[world]', x=-707.70, y=77.28, z=922.87] died, message: 'Nitwit burned to death'
