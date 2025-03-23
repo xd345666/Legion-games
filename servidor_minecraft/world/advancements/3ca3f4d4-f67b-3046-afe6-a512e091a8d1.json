@@ -5877,6 +5877,12 @@
     },
     "done": true
   },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2025-03-23 23:13:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
       "has_stone_button": "2025-03-23 23:04:18 +0000"

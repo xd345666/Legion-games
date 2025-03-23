@@ -7790,39 +7790,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_deepslate_stairs": {
-    "criteria": {
-      "has_polished_cut_deepslate": "2025-03-23 22:43:30 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-23 22:43:06 +0000"
     },
     "done": true
   },
-  "mekanism:teleporter": {
-    "criteria": {
-      "teleporter": "2025-03-23 22:55:50 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-23 22:43:06 +0000"
-    },
-    "done": true
-  },
-  "mekanism:portable_teleporter": {
-    "criteria": {
-      "portable_teleporter": "2025-03-23 22:56:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_slab": {
-    "criteria": {
-      "has_polished_cut_deepslate": "2025-03-23 22:43:30 +0000"
     },
     "done": true
   },
@@ -7853,12 +7829,6 @@
   "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-23 22:43:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_deepslate_wall": {
-    "criteria": {
-      "has_polished_cut_deepslate": "2025-03-23 22:43:30 +0000"
     },
     "done": true
   },
@@ -7895,6 +7865,42 @@
   "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-23 22:43:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2025-03-23 22:43:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2025-03-23 22:43:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2025-03-23 22:43:30 +0000"
+    },
+    "done": true
+  },
+  "mekanism:teleporter": {
+    "criteria": {
+      "teleporter": "2025-03-23 22:55:50 +0000"
+    },
+    "done": false
+  },
+  "mekanism:portable_teleporter": {
+    "criteria": {
+      "portable_teleporter": "2025-03-23 22:56:29 +0000"
+    },
+    "done": true
+  },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2025-03-23 23:12:20 +0000"
     },
     "done": true
   },
