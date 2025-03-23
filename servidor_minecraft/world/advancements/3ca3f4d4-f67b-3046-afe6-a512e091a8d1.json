@@ -5473,21 +5473,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+  "mekanism:playing_with_fire": {
     "criteria": {
-      "has_rose_bush": "2025-03-23 20:55:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2025-03-23 20:58:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-03-23 20:57:58 +0000"
+      "flamethrower": "2025-03-23 20:48:22 +0000"
     },
     "done": true
   },
@@ -5497,9 +5485,21 @@
     },
     "done": true
   },
-  "mekanism:playing_with_fire": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "flamethrower": "2025-03-23 20:48:22 +0000"
+      "has_rose_bush": "2025-03-23 20:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-03-23 20:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-03-23 20:58:00 +0000"
     },
     "done": true
   },
