@@ -175,3 +175,22 @@
 [24Mar2025 19:27:53.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
 [24Mar2025 19:31:38.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
 [24Mar2025 19:34:15.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
+[24Mar2025 19:34:42.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
+[24Mar2025 19:34:53.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
+[24Mar2025 19:34:53.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[24Mar2025 19:35:06.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:40463] logged in with entity id 24042 at (-313.7052579928358, 276.5625, 888.0994084263353)
+[24Mar2025 19:35:06.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[24Mar2025 19:35:06.260] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[24Mar2025 19:35:36.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
+[24Mar2025 19:35:36.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[24Mar2025 19:36:29.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:52741] logged in with entity id 24305 at (-308.24617480479486, 276.0, 889.3996403417117)
+[24Mar2025 19:36:29.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[24Mar2025 19:36:29.755] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[24Mar2025 19:36:59.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
+[24Mar2025 19:36:59.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[24Mar2025 19:37:12.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:41899] logged in with entity id 24485 at (-308.24617480479486, 276.0, 889.3996403417117)
+[24Mar2025 19:37:12.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[24Mar2025 19:37:12.952] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[24Mar2025 19:37:38.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.160.143.168:56797] logged in with entity id 24810 at (-312.6451183279337, 79.0, 899.4628456278397)
+[24Mar2025 19:37:38.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
+[24Mar2025 19:37:39.035] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
