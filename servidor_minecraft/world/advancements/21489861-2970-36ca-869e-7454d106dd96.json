@@ -7916,15 +7916,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/birch_cabinet": {
-    "criteria": {
-      "has_birch_trapdoor": "2025-03-23 23:52:35 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-03-23 23:52:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-03-23 23:52:35 +0000"
     },
     "done": true
   },
