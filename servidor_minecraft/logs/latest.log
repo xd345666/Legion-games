@@ -160,3 +160,4 @@
 [24Mar2025 18:52:05.326] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/159, l='ServerLevel[world]', x=-199.75, y=77.00, z=983.30] died, message: 'Nitwit was slain by Zombie'
 [24Mar2025 19:02:02.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
 [24Mar2025 19:02:10.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Bonfire Lit]
+[24Mar2025 19:07:47.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
