@@ -7929,27 +7929,27 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-03-24 19:02:10 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/glow_display_case": {
     "criteria": {
       "has_item_frame": "2025-03-24 17:01:39 +0000"
     },
     "done": true
   },
-  "vinery:recipes/wine_press": {
-    "criteria": {
-      "has_iron_trapdoor": "2025-03-24 19:02:45 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2025-03-24 19:02:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-03-24 19:02:10 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_press": {
+    "criteria": {
+      "has_iron_trapdoor": "2025-03-24 19:02:45 +0000"
     },
     "done": true
   },

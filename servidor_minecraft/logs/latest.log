@@ -161,3 +161,17 @@
 [24Mar2025 19:02:02.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
 [24Mar2025 19:02:10.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Bonfire Lit]
 [24Mar2025 19:07:47.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
+[24Mar2025 19:25:25.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
+[24Mar2025 19:25:25.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[24Mar2025 19:25:25.181] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Mar2025 19:25:46.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:41863] logged in with entity id 22370 at (-342.2056112346446, 86.0, 1038.2810452536419)
+[24Mar2025 19:25:46.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[24Mar2025 19:25:46.425] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[24Mar2025 19:26:16.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
+[24Mar2025 19:26:16.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[24Mar2025 19:26:38.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:38947] logged in with entity id 22565 at (-342.2056112346446, 86.0, 1038.2810452536419)
+[24Mar2025 19:26:38.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[24Mar2025 19:26:38.270] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[24Mar2025 19:27:53.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
+[24Mar2025 19:31:38.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
+[24Mar2025 19:34:15.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
