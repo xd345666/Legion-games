@@ -148,3 +148,9 @@
 [24Mar2025 16:48:19.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
 [24Mar2025 16:49:21.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
 [24Mar2025 16:51:13.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
+[24Mar2025 16:52:54.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC moved too quickly! 0.0,-10.082713105363382,0.0
+[24Mar2025 16:57:01.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set 0 experience levels on EHC]
+[24Mar2025 16:57:04.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
+[24Mar2025 16:59:06.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
+[24Mar2025 17:04:50.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
+[24Mar2025 17:10:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
