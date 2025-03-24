@@ -157,3 +157,4 @@
 [24Mar2025 17:15:40.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
 [24Mar2025 17:39:36.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC moved too quickly! 0.4129944496245912,-10.439758724024045,0.9972172202113825
 [24Mar2025 17:39:39.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC moved too quickly! -0.20196110082622454,-10.61688183204977,0.5452227878665781
+[24Mar2025 18:52:05.326] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/159, l='ServerLevel[world]', x=-199.75, y=77.00, z=983.30] died, message: 'Nitwit was slain by Zombie'
