@@ -155,3 +155,5 @@
 [24Mar2025 17:04:50.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
 [24Mar2025 17:10:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
 [24Mar2025 17:15:40.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
+[24Mar2025 17:39:36.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC moved too quickly! 0.4129944496245912,-10.439758724024045,0.9972172202113825
+[24Mar2025 17:39:39.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC moved too quickly! -0.20196110082622454,-10.61688183204977,0.5452227878665781
