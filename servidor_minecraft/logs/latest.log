@@ -142,3 +142,5 @@
 [24Mar2025 16:24:46.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
 [24Mar2025 16:25:33.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/426, l='ServerLevel[world]', x=-311.58, y=277.50, z=893.55] died, message: 'Farmer was slain by EHC'
 [24Mar2025 16:26:55.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SnowGolem['Puta zorra'/455, l='ServerLevel[world]', x=-310.46, y=277.50, z=893.54] died: Puta zorra was blown up by Creeper
+[24Mar2025 16:39:02.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Puta zorra'/1020, l='ServerLevel[world]', x=-310.31, y=303.00, z=894.59] died, message: 'Puta zorra suffocated in a wall'
+[24Mar2025 16:39:02.929] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Puta zorra'/1020, l='ServerLevel[world]', x=-310.31, y=303.00, z=894.59] died: Puta zorra suffocated in a wall

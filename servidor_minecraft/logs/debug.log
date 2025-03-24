@@ -5855,3 +5855,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Mar2025 16:26:55.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SnowGolem['Puta zorra'/455, l='ServerLevel[world]', x=-310.46, y=277.50, z=893.54] died: Puta zorra was blown up by Creeper
 [24Mar2025 16:28:06.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Mar2025 16:28:06.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 16:33:06.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 16:33:06.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 16:38:06.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 16:38:06.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 16:38:49.734] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[24Mar2025 16:39:02.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Puta zorra'/1020, l='ServerLevel[world]', x=-310.31, y=303.00, z=894.59] died, message: 'Puta zorra suffocated in a wall'
+[24Mar2025 16:39:02.929] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Puta zorra'/1020, l='ServerLevel[world]', x=-310.31, y=303.00, z=894.59] died: Puta zorra suffocated in a wall
