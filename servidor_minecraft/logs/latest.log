@@ -205,3 +205,21 @@
 [24Mar2025 20:09:08.590] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.160.143.168:54233] logged in with entity id 29004 at (-292.7653009233526, 78.0, 1006.4846186319091)
 [24Mar2025 20:09:08.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
 [24Mar2025 20:09:08.639] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
+[24Mar2025 20:32:00.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 moved wrongly!
+[24Mar2025 20:32:11.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
+[24Mar2025 20:36:30.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
+[24Mar2025 20:36:45.983] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
+[24Mar2025 20:36:45.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[24Mar2025 20:36:51.926] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 lost connection: Disconnected
+[24Mar2025 20:36:51.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 left the game
+[24Mar2025 20:36:51.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Mar2025 20:36:51.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Mar2025 20:36:51.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Mar2025 20:36:52.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Mar2025 20:36:52.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Mar2025 20:36:52.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Mar2025 20:36:52.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Mar2025 20:36:52.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Mar2025 20:36:52.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Mar2025 20:36:52.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Mar2025 20:36:52.468] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
