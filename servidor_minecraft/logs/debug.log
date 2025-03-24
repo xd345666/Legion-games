@@ -8935,3 +8935,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Mar2025 23:47:50.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Teleported ThiagoXD_0 to EHC]
 [23Mar2025 23:49:47.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Mar2025 23:49:47.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 23:54:47.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 23:54:47.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 23:59:47.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 23:59:47.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 00:02:14.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC suffocated in a wall
+[24Mar2025 00:02:22.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/54539, l='ServerLevel[world]', x=-270.46, y=66.00, z=1037.69] died, message: 'Toolsmith suffocated in a wall'
+[24Mar2025 00:02:40.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
+[24Mar2025 00:02:40.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
