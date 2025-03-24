@@ -5862,3 +5862,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Mar2025 16:38:49.734] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [24Mar2025 16:39:02.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Puta zorra'/1020, l='ServerLevel[world]', x=-310.31, y=303.00, z=894.59] died, message: 'Puta zorra suffocated in a wall'
 [24Mar2025 16:39:02.929] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Puta zorra'/1020, l='ServerLevel[world]', x=-310.31, y=303.00, z=894.59] died: Puta zorra suffocated in a wall
+[24Mar2025 16:43:06.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 16:43:06.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 16:46:45.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
+[24Mar2025 16:48:06.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 16:48:06.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 16:48:19.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
+[24Mar2025 16:49:21.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
+[24Mar2025 16:51:13.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
