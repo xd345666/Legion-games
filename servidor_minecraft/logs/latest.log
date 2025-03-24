@@ -195,3 +195,8 @@
 [24Mar2025 19:37:38.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
 [24Mar2025 19:37:39.035] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
 [24Mar2025 19:46:43.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [The Andesite Age]
+[24Mar2025 20:00:17.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 lost connection: Disconnected
+[24Mar2025 20:00:17.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 left the game
+[24Mar2025 20:00:49.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.160.143.168:55563] logged in with entity id 28206 at (-290.70874147307484, 78.0, 1021.1844838889649)
+[24Mar2025 20:00:49.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
+[24Mar2025 20:00:49.731] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
